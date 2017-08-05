@@ -22,3 +22,8 @@
 
 ##### 17/07/29
 * *Palindrome Number* 有点儿水
+* *Regular Expression Matching* 没懂，先放着
+
+##### 17/08/05
+* *Container With Most Water* O(n)时间复杂度
+* *Integer to Roman* 一开始觉得把3999个数字写出来得了，后来看到了贪心算法，关键点在于把能选择的最大值都列出来
